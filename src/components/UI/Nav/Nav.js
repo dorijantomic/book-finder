@@ -15,7 +15,7 @@ const Nav = () =>  {
 
   return (
     <div className={classes.root}>
-      <AppBar position="static" >
+      <AppBar position="static" color='primary' >
         <Toolbar>
           <Typography variant="h6" color="inherit">
             Book Finder
